@@ -3,7 +3,7 @@
 * 🔭 I’m currently working on MamurTech
 * 🌍 I'm based in Istanbul
 * ✉️ You can contact me at mehmetkaygusuz35@gmail.com
-* 🧠 I'm learning Computer Vision Algorithm
+* 🧠 I'm learning Computer Vision Algorithms
 
 
 <h3 align="left">Languages and Tools:</h3>
