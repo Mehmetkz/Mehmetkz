@@ -1,4 +1,4 @@
-### AI Specialist
+## AI Specialist
 
 * 🔭 I’m currently working on MamurTech
 * 🌍 I'm based in Istanbul
