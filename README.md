@@ -5,13 +5,8 @@
 * ✉️ You can contact me at mehmetkaygusuz35@gmail.com
 * 🧠 I'm learning Computer Vision Algorithm
 
-## Skills and Experience
-* Visual
-Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoMongoDBMySQLGitGitHubTerminal
 
 
-<h1 align="center">Hi Mehmet Kaygusuz</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
