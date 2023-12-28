@@ -5,7 +5,7 @@
 * ✉️ You can contact me at mehmetkaygusuz35@gmail.com
 * 🧠 I'm learning Computer Vision Algorithms
 
-I am passionate about Software Engineering, Open-Source, Machine Learning/Deep Learning, Computer Vision/Image Processing and Robotics
+I am passionate about Software Engineering, Open-Source, Machine Learning/Deep Learning, Computer Vision/Image Processing and Robotics.
 
 
 <h3 align="left">Languages and Tools:</h3>
